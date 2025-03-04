@@ -1,0 +1,7 @@
+# requirements.txt
+spleeter
+fastapi
+uvicorn
+aiohttp
+pydantic
+python-multipart
